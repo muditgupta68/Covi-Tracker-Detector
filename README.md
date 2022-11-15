@@ -47,7 +47,17 @@ Web Scraping was totally new field for me to work. But while working on this pro
 
 ## 📍 ScreenShots of project
 
-![trailer screen](https://i.ibb.co/M5tQgzz/main-Window1.png)
+#### *Main Window*
+
+![Main Window](https://i.ibb.co/M5tQgzz/main-Window1.png)
+
+#### *Track Window*
+![Tracking Screen](https://i.ibb.co/2gKJHbG/track-Window1.png)
+
+#### *Detection Window*
+![Detection screen](https://i.ibb.co/vLw5pTJ/detection1.png)
+
+
 
 
   
