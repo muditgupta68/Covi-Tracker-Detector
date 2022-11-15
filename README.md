@@ -53,6 +53,7 @@ Web Scraping was totally new field for me to work. But while working on this pro
 
 #### *Track Window*
 ![Tracking Screen](https://i.ibb.co/2gKJHbG/track-Window1.png)
+![Tracking Screen](https://i.ibb.co/wWzPR6M/track-Window2.png)
 
 #### *Detection Window*
 ![Detection screen](https://i.ibb.co/vLw5pTJ/detection1.png)
